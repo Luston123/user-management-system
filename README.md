@@ -1,20 +1,19 @@
 # User Management System
 
-This project simulates a remote work environment using PHP, MySQL, and Firebase.
+A professional PHP & MySQL user management system designed to simulate real remote work environments.
 
 ## Features
-- User authentication (login, signup, logout)
-- Role-based access (admin / user)
-- Dashboard
-- Firebase integration for real-time features
-
-## Workflow
-- GitHub flow with feature branches
-- Code review simulation
-- Commits following best practices
+- Secure user authentication
+- User registration and logout
+- Session-protected dashboard
+- Clean project structure
+- Professional GitHub commits
 
 ## Tech Stack
-- PHP
+- PHP (PDO)
 - MySQL
-- Firebase
-- HTML, CSS, JS
+- HTML / CSS
+- GitHub workflow
+
+## Author
+Luston Mabiala
